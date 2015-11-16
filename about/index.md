@@ -10,7 +10,7 @@ image:
 
 The OpenVnmrJ project as a community revolves around OpenVnmrJ as a piece of software. OpenVnmrJ resulted from the open-source release of commercial software for NMR spectrometers. We are a group of open-source developers and users who develop, use, document, and promote OpenVnmrJ, NMR spectrometers and data stations running OpenVnmrJ, and other related activities for our mutual benefit.
 
-See OpenVnmrJ [Background](/documentation/Background/) for more information
+See OpenVnmrJ [Background](/Background/) for more information
 
 ##OpenVnmrJ##
 
@@ -25,7 +25,7 @@ OpenVnmrJ is designed to be very extensible with:
 ##Using the GitHub Repository##
 The GitHub repository is for people that want to download, compile, fix and contribute back to the community. 
 
-If you only want to download and run OpenVnmrJ, you should get a pre-built archive and install a local copy. See [Downloading](/documentation/Downloading/) for more information.
+If you only want to download and run OpenVnmrJ, you should get a pre-built archive and install a local copy. See [Downloading](/Downloading/) for more information.
 
 ## Spectrometer users, read this ##
 ** Do not delete the Agilent supplied VnmrJ on your spectrometer **
@@ -34,7 +34,7 @@ If you only want to download and run OpenVnmrJ, you should get a pre-built archi
 
 
 ##Contributing##
-See the [Contributing](/documentation/Contributing/) to get started.
+See the [Contributing](/Contributing/) to get started.
 
 ## Owner ##
 The Board of Trustees of the University of Oregon ("University of Oregon") legally owns the project assets. 
@@ -42,7 +42,7 @@ The Board of Trustees of the University of Oregon ("University of Oregon") legal
 ##License##
 Most of the code and documentation are licnesed under the Apache 2.0 license, but some parts are licensed under the GLPv3 license.
 
-See the [License](/documentation/License/) file for more information.
+See the [License](/License/) file for more information.
 
 ##Disclaimer##
 To the fullest extent allowed by law, the work is provided "as-is" with no warrantees whatsoever, either expressed or implied, oral or written. Agilent specifically disclaims any warrantees of merchantability or fitness for a particular purpose. This work is not a manufacturer's release version. All disputes will be heard in the courts of California.
