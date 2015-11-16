@@ -14,17 +14,17 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Download the Latest Release</h2>
-  <p class="post-excerpt">[Download](/documentation/Download/) and install the latest release of OpenVnmrJ</p>
+  <p class="post-excerpt"><a href="http://openvnmrj.org/Download">Download</a> and install the latest release of OpenVnmrJ</p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">Contribute</h2>
-  <p class="post-excerpt">Learn how to [Contribute](/documentation/Contributing) pulse sequences, documentation, or code to OpenVnmrJ.</p>
+  <p class="post-excerpt">Learn how to <a href="http://openvnmrj.org/Contributing">contribute</a> documentation, pulse sequences, macros, or other code to OpenVnmrJ.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title">Support</h2>
-Connect with the [Spinsights](https://spinsights.chem.agilent.com) community to ask questions and get help with VnmrJ and OpenVnmrJ.
+Connect with the <a href="https://spinsights.chem.agilent.com">Spinsights</a> community to ask questions and get help with VnmrJ and OpenVnmrJ.
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
