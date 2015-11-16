@@ -8,8 +8,8 @@ image:
 <div class="tiles">
 
 <div class="tile">
-  <h2 class="post-title">Built for Jekyll 2</h2>
-  <p class="post-excerpt">Takes advantage of native Sass support and data files to make customizing your site easier.</p>
+  <h2 class="post-title">VnmrJ is now Open Source!</h2>
+  <p class="post-excerpt">VnmrJ has been released as open source software under the name OpenVnmrJ.</p>
 </div><!-- /.tile -->
 
 <div class="tile">
