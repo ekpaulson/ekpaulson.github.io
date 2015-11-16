@@ -8,7 +8,7 @@ excerpt: "This is the OpenVnmrJ about page."
 
 The OpenVnmrJ project as a community revolves around OpenVnmrJ as a piece of software. OpenVnmrJ resulted from the open-source release of commercial software for NMR spectrometers. We are a group of open-source developers and users who develop, use, document, and promote OpenVnmrJ, NMR spectrometers and data stations running OpenVnmrJ, and other related activities for our mutual benefit.
 
-See "OpenVnmrJ Background" for mor information
+See "OpenVnmrJ Background" for more information
 
 ##OpenVnmrJ##
 
