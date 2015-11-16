@@ -24,7 +24,7 @@ image:
 
 <div class="tile">
   <h2 class="post-title">Support</h2>
-  <p class="post-excerpt">Connect with the [Spinsights](https://spinsights.chem.agilent.com) community to ask questions and get help with VnmrJ and OpenVnmrJ.</p>
+Connect with the [Spinsights](https://spinsights.chem.agilent.com) community to ask questions and get help with VnmrJ and OpenVnmrJ.
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
