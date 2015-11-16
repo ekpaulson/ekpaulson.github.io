@@ -3,6 +3,7 @@ layout: article
 title: "About"
 excerpt: "This is the OpenVnmrJ about page."
 ---
+{% include toc.html %}
 
 ##Who we are##
 
