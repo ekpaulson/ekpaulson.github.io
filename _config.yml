@@ -18,6 +18,10 @@ kramdown:
 highlighter: pygments
 gems:
   - jekyll-sitemap
+collections:
+  documentation:
+    output: true
+    permalink: /documentation/:path/
 
 
 # Site owner
