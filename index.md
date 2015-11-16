@@ -13,8 +13,8 @@ image:
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title">Content First</h2>
-  <p class="post-excerpt">Designed to put the focus on you and your writing. Headers, navigation, sidebars, and footers have been purposely deemphasized.</p>
+  <h2 class="post-title">Download the Latest Release</h2>
+  <p class="post-excerpt">Download and install the latest release of OpenVnmrJ</p>
 </div><!-- /.tile -->
 
 <div class="tile">
