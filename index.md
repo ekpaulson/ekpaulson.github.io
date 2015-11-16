@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: OpenVnmrJ_Header.png
+  feature: sample-image-1.jpg
 ---
 
 <div class="tiles">
