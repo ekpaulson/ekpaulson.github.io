@@ -2,10 +2,6 @@
 layout: article
 title: "About"
 excerpt: "This is the OpenVnmrJ about page."
-image:
-  feature:
-  teaser:
-  thumb:
 ---
 
 ##Who we are##
