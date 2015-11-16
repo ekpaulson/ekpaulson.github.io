@@ -6,17 +6,17 @@
   image: 400x250.gif
 
 - title: Background
-  url: /background/
+  url: /documentaton/Background/
   image: 400x250.gif
-  
+
 - title: Contributing
   url: /documentation/Contributing/
   image: 400x250.gif
-    
+
 - title: Latest News
   url: /posts/
   image: 400x250.gif
-  
+
 - title: OpenVnmrJ on GitHub
   url: http://github.com/OpenVnmrJ
   image: 400x250.gif
